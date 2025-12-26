@@ -1,0 +1,105 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Inter, sans-serif;
+}
+
+body {
+  background-color: #020617;
+  color: #E5E7EB;
+}
+
+.hero {
+  padding: 120px;
+  background: linear-gradient(135deg, #020617, #0F172A);
+}
+
+.about, .projects, .contact {
+  padding: 100px 120px;
+}
+
+.projects {
+  background-color: #0F172A;
+}
+
+.project-grid {
+  display: flex;
+  gap: 32px;
+  margin-top: 40px;
+}
+
+.card {
+  width: 300px;
+  background-color: #1E293B;
+  border-radius: 12px;
+  padding: 16px;
+}
+
+.card-image {
+  height: 180px;
+  background-color: #334155;
+  border-radius: 8px;
+  margin-bottom: 12px;
+}
+
+.contact {
+  background-color: #020617;
+}
+.hero h1 {
+  font-size: 48px;
+  margin-bottom: 12px;
+}
+
+.hero p {
+  font-size: 20px;
+  margin-bottom: 24px;
+  color: #94A3B8;
+}
+
+.hero button {
+  padding: 12px 24px;
+  border-radius: 8px;
+  border: none;
+  background-color: #38BDF8;
+  color: #020617;
+  font-weight: 600;
+  cursor: pointer;
+}
+.about,
+.projects,
+.contact,
+.hero {
+  max-width: 1200px;
+  margin: auto;
+}
+.project-grid {
+  flex-wrap: wrap;
+}
+@media (max-width: 768px) {
+
+  .hero,
+  .about,
+  .projects,
+  .contact {
+    padding: 60px 24px;
+  }
+
+  .hero h1 {
+    font-size: 32px;
+  }
+
+  .project-grid {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .card {
+    width: 100%;
+    max-width: 360px;
+  }
+}
+.hero button:hover {
+  background-color: #0EA5E9;
+}
