@@ -24,7 +24,8 @@ This is my personal portfolio website created for internship project submission.
 
 ## Output Screenshot
 
-![Desktop View](screenshots/desktop-view.png)
+[View Design in Figma](https://www.figma.com/file/your-figma-link)
+
 
 
 ---
