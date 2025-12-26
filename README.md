@@ -22,8 +22,8 @@ This is my personal portfolio website created for internship project submission.
 
 ---
 
-## Output Screenshot
-
+## Project Design
+The complete UI/UX design for this project can be viewed in Figma: 
 [View Design in Figma](https://www.figma.com/design/med57qj8gmNrncVH9WdAA8/Personal-Portfolio-Website-UI?t=wIEud5Y13KqL4t5H-1)
 
 
