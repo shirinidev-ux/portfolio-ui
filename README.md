@@ -24,7 +24,7 @@ This is my personal portfolio website created for internship project submission.
 
 ## Output Screenshot
 
-[View Design in Figma](https://www.figma.com/file/your-figma-link)
+[View Design in Figma](https://www.figma.com/design/med57qj8gmNrncVH9WdAA8/Personal-Portfolio-Website-UI?t=wIEud5Y13KqL4t5H-1)
 
 
 
