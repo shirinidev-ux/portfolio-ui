@@ -26,6 +26,7 @@ This is my personal portfolio website created for internship project submission.
 
 ![Desktop View](screenshots/desktop-view.png)
 
+
 ---
 
 ## Author
